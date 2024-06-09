@@ -1,5 +1,9 @@
 # TONLingo
 
+
+![TONLingo - Gurugram Bootcamp](https://github.com/Nakshatra05/TONLingo/assets/139595090/29df555a-525d-4b4d-8dfa-e0c1f64d8f35)
+
+
 ## Vision
 TONLingo aims to improve English proficiency among Hindi-speaking and other non-English-speaking populations by providing a learn-2-earn platform. Users are incentivized to learn English through cryptocurrency rewards, enhancing their communication skills, access to global information, and participation in international opportunities.
 
