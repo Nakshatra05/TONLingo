@@ -1,9 +1,6 @@
 # TONLingo
 
 
-![Screenshot 2024-06-09 122611](https://github.com/Nakshatra05/TONLingo/assets/139595090/02f78edc-356f-480c-a2f1-a4415a1e8e74)
-
-
 ## Vision
 TONLingo aims to improve English proficiency among Hindi-speaking and other non-English-speaking populations by providing a learn-2-earn platform. Users are incentivized to learn English through cryptocurrency rewards, enhancing their communication skills, access to global information, and participation in international opportunities.
 
@@ -11,6 +8,8 @@ TONLingo aims to improve English proficiency among Hindi-speaking and other non-
 
 ### Overview
 TONLingo addresses the challenge of English proficiency in Hindi-speaking regions, which hinders individuals from fully engaging with global opportunities. By offering an engaging and rewarding platform, TONLingo bridges this gap.
+
+![Screenshot 2024-06-09 122611](https://github.com/Nakshatra05/TONLingo/assets/139595090/02f78edc-356f-480c-a2f1-a4415a1e8e74)
 
 ### The Challenge
 In today's interconnected world, English is essential for international communication, business, education, and access to information. Limited English skills restrict these opportunities for many.
