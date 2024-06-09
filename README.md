@@ -9,8 +9,6 @@ TONLingo aims to improve English proficiency among Hindi-speaking and other non-
 ### Overview
 TONLingo addresses the challenge of English proficiency in Hindi-speaking regions, which hinders individuals from fully engaging with global opportunities. By offering an engaging and rewarding platform, TONLingo bridges this gap.
 
-<img src="https://github.com/Nakshatra05/TONLingo/assets/139595090/02f78edc-356f-480c-a2f1-a4415a1e8e74" width="400" height="300">
-
 ![Screenshot 2024-06-09 122611](https://github.com/Nakshatra05/TONLingo/assets/139595090/02f78edc-356f-480c-a2f1-a4415a1e8e74)
 
 ### The Challenge
