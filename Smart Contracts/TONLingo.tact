@@ -1,3 +1,5 @@
+// Defining our contract
+
 contract TONLingo {
     struct User {
         address userAddress;
