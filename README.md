@@ -1,7 +1,7 @@
 # TONLingo
 
 
-![TONLingo - Gurugram Bootcamp](https://github.com/Nakshatra05/TONLingo/assets/139595090/29df555a-525d-4b4d-8dfa-e0c1f64d8f35)
+![Screenshot 2024-06-09 122611](https://github.com/Nakshatra05/TONLingo/assets/139595090/02f78edc-356f-480c-a2f1-a4415a1e8e74)
 
 
 ## Vision
