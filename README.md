@@ -48,8 +48,8 @@ TONLingo aims to:
 ### 3. TACT for Smart Contracts
 - Used to develop smart contracts managing user interactions, points, quiz mechanisms, and token rewards on the TON blockchain.
 
-### 4. WebAssembly (Wasm)
-- TACT contracts are written in WebAssembly for efficient execution on the TON blockchain.
+### 4. TON SDK
+- We will use this to interact with the TON Blockchain from our typescript code
 
 ### 5. TypeScript
 - Used for developing the frontend interface of the Telegram mini app.
