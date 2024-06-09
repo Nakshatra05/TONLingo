@@ -4,6 +4,8 @@
 ## Vision
 TONLingo aims to improve English proficiency among Hindi-speaking and other non-English-speaking populations by providing a learn-2-earn platform. Users are incentivized to learn English through cryptocurrency rewards, enhancing their communication skills, access to global information, and participation in international opportunities.
 
+![Screenshot 2024-06-09 122611](https://github.com/Nakshatra05/TONLingo/assets/139595090/02f78edc-356f-480c-a2f1-a4415a1e8e74)
+
 ## Description
 
 ### Overview
@@ -22,8 +24,6 @@ TONLingo is committed to democratizing access to English language education by p
 - **Community Support**: Fosters a supportive learning community for interaction and practice.
 - **Personalized Learning Pathways**: Uses advanced algorithms to tailor content to individual strengths and weaknesses.
 - **Cultural Integration**: Integrates culturally relevant content to aid language acquisition and promote cultural awareness.
-
-![Screenshot 2024-06-09 122611](https://github.com/Nakshatra05/TONLingo/assets/139595090/02f78edc-356f-480c-a2f1-a4415a1e8e74)
 
 ### Impact and Goals
 TONLingo aims to:
