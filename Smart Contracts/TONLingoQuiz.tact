@@ -1,3 +1,5 @@
+// This contract will manage quiz questions and user answers, awarding points based on correct answers.
+
 contract TONLingoQuiz {
     struct Quiz {
         uint256 id;
