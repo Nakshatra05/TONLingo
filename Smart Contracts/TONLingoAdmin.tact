@@ -1,3 +1,5 @@
+//This contract provides advanced administrative controls over the platform.
+
 contract TONLingoAdmin {
     address public owner;
     address public userManagementContract;
