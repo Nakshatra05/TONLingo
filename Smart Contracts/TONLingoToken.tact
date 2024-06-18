@@ -1,3 +1,5 @@
+//This contract will manage the TIP-3 tokens used for rewards
+
 contract TONLingoToken {
     mapping(address => uint256) public balances;
     uint256 public totalSupply;
