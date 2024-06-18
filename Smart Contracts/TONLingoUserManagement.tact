@@ -1,3 +1,5 @@
+//This contract will manage user registration, point accumulation, and reward distribution.
+
 contract TONLingoUserManagement {
     struct User {
         address userAddress;
